@@ -1,6 +1,7 @@
-[![MasterHead](https://giphy.com/gifs/s63Jzew1dfO3j6nndV)](https://github.com/XuanTho2k) <h1 align="center">Hi 👋, I'm Xuan Tho</h1> 
+[![MasterHead](https://media.giphy.com/media/s63Jzew1dfO3j6nndV/giphy.gif)](https://github.com/XuanTho2k)
+<h1 align="center">Hi 👋, I'm Xuan Tho</h1> 
 <h3 align="center">A passionate web developer from Viet Nam</h3>
-<img align="right" alt="Coding" width="400" src=“https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif”>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xuantho2k&label=Profile%20views&color=0e75b6&style=flat" alt="xuantho2k" /> </p>
 
