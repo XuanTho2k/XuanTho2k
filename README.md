@@ -1,4 +1,6 @@
-[![MasterHead](https://media.giphy.com/media/s63Jzew1dfO3j6nndV/giphy.gif)](https://github.com/XuanTho2k)
+<div style="width: 100%; text-align: center;">
+  <img src="https://media.giphy.com/media/s63Jzew1dfO3j6nndV/giphy.gif" alt="MasterHead" style="width: 100%; height: auto;">
+</div>
 <h1 align="center">Hi 👋, I'm Xuan Tho</h1> 
 <h3 align="center">A passionate web developer from Viet Nam</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
